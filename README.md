@@ -1,5 +1,8 @@
-# Project-Mednear Clone
 unit2 cw project 
+# Project-Mednear Clone
+
+Mednear is the primary online pharmacy in india provides
+prescription, over the counter medicines.
 
 @Creators
 
